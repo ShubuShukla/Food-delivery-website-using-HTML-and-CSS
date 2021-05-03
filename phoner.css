@@ -1,0 +1,50 @@
+﻿/* navigation */
+
+#navbar{flex-direction:column; position:sticky;}
+
+#navbar ul li a{ font-size:0.8rem; padding:0px 7px;}
+
+
+
+/* home*/
+
+#home1 {height:370px ; padding:200px 68px;}
+
+#home1::before{height:400 px; width:500px;}
+
+#home1 p{font-size:13px;}
+
+
+
+
+
+
+
+/* services */
+#services {flex-direction:column; }
+
+#services .box{}
+
+
+
+
+
+
+/*utility */
+
+.primaryh { font-size:26px;}
+
+.btn{font-size:13px; padding:4px 8px;}
+
+
+
+/*clients */
+
+#clients1{flex-wrap:wrap;}
+
+#clients1 img{ width:50px; padding:2px 6px;}
+
+
+
+
+/* contact us */
